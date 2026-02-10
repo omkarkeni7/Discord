@@ -1,0 +1,21 @@
+{
+  "projects": [
+    {
+      "assignedUsers": [
+        "123456789"
+      ],
+      "name": "Urgent Project - Due Tomorrow",
+      "id": "test-1day",
+      "deadline": "2026-02-11"
+    },
+    {
+      "assignedUsers": [
+        "123456789",
+        "987654321"
+      ],
+      "name": "Important Project - Due in 3 Days",
+      "id": "test-3day",
+      "deadline": "2026-02-13"
+    }
+  ]
+}

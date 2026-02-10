@@ -1,0 +1,31 @@
+{
+    "projects": [
+        {
+            "id": "project-001",
+            "name": "Website Redesign",
+            "deadline": "2026-02-13",
+            "assignedUsers": [
+                "user123",
+                "user456"
+            ]
+        },
+        {
+            "id": "project-002",
+            "name": "Mobile App Launch",
+            "deadline": "2026-02-11",
+            "assignedUsers": [
+                "user789"
+            ]
+        },
+        {
+            "id": "project-003",
+            "name": "API Integration",
+            "deadline": "2026-02-20",
+            "assignedUsers": [
+                "user123",
+                "user789",
+                "user101"
+            ]
+        }
+    ]
+}
